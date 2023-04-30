@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://maluig1.github.io/sitemap.xml
